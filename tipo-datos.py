@@ -25,7 +25,7 @@ lista = [0, 1, 2, 3, 4, 5]
 
 # Tuplas
 
-tupla = ("a", "b", "c", "d", "e")
+tupla = ("a", "b", "c", "d", "e")  # Inmutables = No se pueden modificar
 
 # Diccionario
 
