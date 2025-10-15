@@ -1,0 +1,6 @@
+Has pedido un café: Espresso
+Has pedido un café: Latte
+Has pedido un café: Cappuccino
+Has pedido un café: Americano
+Espresso
+Latte
